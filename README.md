@@ -5,7 +5,7 @@
  I’ve experienced the difference innovative technology can make so I am passionate about developing applications that have an intuitive flow, promote accessibility, and boast beautiful interfaces.
 
 
-### I have most experience with...
+### I am currently most experienced with...
 -----
 <p>
 
