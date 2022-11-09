@@ -45,4 +45,4 @@
 
 ### Let's Connect!
 -----
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-martinez-swe/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white?style=for-the-badge)](https://www.linkedin.com/in/alexis-martinez-swe/)
