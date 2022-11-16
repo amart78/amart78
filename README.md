@@ -28,12 +28,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" height="75"/>&nbsp;
 <img src="https://secrethub.io/img/blog/go-gopher.png" title="Go Lang" alt="Go Lang" width= "80" height="75"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="Typescript" alt="Typescript" height="75"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" height="75"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" height="75"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" height="75"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" height="75"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" height="75"/>&nbsp;
-
-
 
 
 ### Outside of coding, I enjoy...
