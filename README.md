@@ -1,8 +1,7 @@
-## Hi there! 👋  
-
+## Hi there! 👋 Thanks for stopping by ✨
  I am a software developer with a background in operations. Building tools and applications that are user-friendly and handle the tedious is a super-power I’m always working to level-up in. 
  Such interfaces allow businesses and their employees to get back to doing what brings them the most fulfillment with their work. 
- I’ve experienced the difference innovative technology can make so I am passionate about developing applications that have an intuitive flow, promote accessibility, and boast beautiful interfaces.
+ I’ve experienced the difference innovative technology can make so I am passionate about developing applications that have an intuitive flow, automate the monotonous, and boast beautiful interfaces.
 
 Check out my portfolio site @ [alexiscodes.com](url)
 
