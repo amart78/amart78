@@ -19,6 +19,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" height="75"/>&nbsp;
 <img src="https://www.pulumi.com/logos/brand/twitter-card.png" title="Pulumi" alt="Pulumi" height="75"/>&nbsp;
 
+### Stats
+-----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amart78&layout=compact)](https://github.com/amart78/github-readme-stats)
+
 ### I'm learning...
 -----
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" height="75"/>&nbsp;
@@ -41,3 +45,4 @@
 ### Let's Connect!
 -----
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white?style=for-the-badge)](https://www.linkedin.com/in/alexis-martinez-swe/)
+
