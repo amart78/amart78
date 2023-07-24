@@ -3,7 +3,7 @@
  Such interfaces allow businesses and their employees to get back to doing what brings them the most fulfillment with their work. 
  I’ve experienced the difference innovative technology can make so I am passionate about developing applications that have an intuitive flow, automate the monotonous, and boast beautiful interfaces.
  
-### I am currently most experienced with...
+### Languages and Technologies I've Worked With...
 -----
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="75" height="75"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="75"/>&nbsp;
@@ -25,17 +25,6 @@
 ### Stats
 -----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amart78&layout=compact)](https://github.com/amart78/github-readme-stats)
-
-### I'm learning...
------
-
-<img src="https://secrethub.io/img/blog/go-gopher.png" title="Go Lang" alt="Go Lang" width= "80" height="75"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="Typescript" alt="Typescript" height="75"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" height="75"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" height="75"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" height="75"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" height="75"/>&nbsp;
-
 
 ### Outside of coding, I enjoy...
 -----
