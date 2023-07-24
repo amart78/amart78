@@ -21,9 +21,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="SQL" alt="SQL" width="75" height="75"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" height="75"/>&nbsp;
 
+---
 
-### Stats
------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amart78&layout=compact)](https://github.com/amart78/github-readme-stats)
 
 ### Outside of coding, I enjoy...
